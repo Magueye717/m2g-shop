@@ -31,7 +31,7 @@ const CheckoutPage = ({cartItems, total})=>(
         ))}
         <div className="total">TOTAL: ${total} </div>
         <div className="test-warning">
-            *Veuillez entrer ces crédentials pour le test*
+            *Veuillez entrer ces crédentials pour le teste*
             <br />
             4242 4242 4242 4242  - Exp: 01/22 - CVV: 123
         </div>
